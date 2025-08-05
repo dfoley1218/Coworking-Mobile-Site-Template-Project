@@ -1,6 +1,4 @@
 {
-  "name": "Scrim-s036g6d",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0dd",
   "scripts": {
     "start": "vite",
     "dev": "vite",
